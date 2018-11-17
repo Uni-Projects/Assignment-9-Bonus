@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542417759 source:c:\users\scatt_000\desktop\imperative programming\assignment_9_bonus\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<cassert>
+	<algorithm>
+	<string.h>
+
